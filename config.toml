@@ -8,7 +8,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 [params]
     author = "Brian Chappell"
-    description = "Demo Resume"
+    description = "Resume"
     og_image = "better-software.png"
     twitterName = "@brianchappell"
     ghRepo = "https://github.com/codewithbas/resume/"
