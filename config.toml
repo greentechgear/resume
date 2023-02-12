@@ -128,8 +128,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Owner / Lead Strategist"
         dates = "2008 - 2022"
         company = "AdaptMarketing.com"
-        details = "Managed and led digital marketing agency for over 10 years and 50+ clients. Managed team of 12.
-        Aquired by CopyPress in 2022."
+        details = "Managed and led digital marketing agency for over 10 years and 50+ clients. Managed team of 12. Aquired by CopyPress in 2022."
         [[params.experience.list.items]]
         details = "Developed link and content promotion tools."
 
