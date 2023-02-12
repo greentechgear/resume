@@ -36,7 +36,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "https://brianchappell.com"
-        text = "My links on the web"
+        text = "Blog"
 
 
     [params.skills]
