@@ -1,22 +1,22 @@
 # Page settings
 
-baseURL = "https://resume-demo.bas.work/"
+baseURL = "https://musical-monstera-aed8e0.netlify.app/"
 languageCode = "en"
-title = "John Doe"
-enableGitInfo = false
+title = "Brian Chappellll"
+enableGitInfo = true
 googleAnalytics = "UA-XXXXXXX-Y"
 
 [params]
-    author = "John Doe"
+    author = "Brian Chappell"
     description = "Demo Resume"
     og_image = "better-software.png"
-    twitterName = "@bascodes"
+    twitterName = "@brianchappell"
     ghRepo = "https://github.com/codewithbas/resume/"
     hugoRepo = "https://github.com/gohugoio/hugo/"
 
     [params.profile]
-        enable = true
-        name = "John Doe"
+        enable = true 
+        name = "Brian Chappell"
         tagline = "Demo Resume"
         avatar = "bas-steins-2.jpg"
 
