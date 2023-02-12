@@ -28,7 +28,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.contact.list]]
         icon = "fas fa-phone-square"
         url = "tel:"
-        text = "confidential"
+        text = "See email"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:brianc@brianchappell.com"
@@ -51,7 +51,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Search Marketing"
         [[params.skills.list]]
-        title = "Wordpress, GA, FB Ads, LinkedIn Ads"
+        title = "Wordpress, GA, GAds, FB Ads, LinkedIn Ads"
 
 
     [params.education]
@@ -124,16 +124,52 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "Created initial link system to monitor link efforts as part of GOTickets.com"
 
-
+[[params.experience.list]]
+        title = "Owner / Lead Strategist"
+        dates = "2008 - 2022"
+        company = "AdaptMarketing.com"
+        details = "Managed and led digital marketing agency for over 10 years and 50+ clients. Managed team of 12.
+        Aquired by CopyPress in 2022."
+        [[params.experience.list.items]]
+        details = "Developed link and content promotion tools."
 
     [params.projects]
         enable = true
 
         [[params.projects.list]]
-        title = "This Resume"
-        meta = "GitHub project"
-        url = "https://github.com/codewithbas/resume"
-        tagline = "A resume with a free PDF generator"
+        title = "BullionMax"
+        meta = "Financial project"
+        url = "https://bullionmax.com"
+        tagline = "Managed the Inventory / Content / Search for a Gold/Silver dealer launch"
+        
+        title = "BitIRA"
+        meta = "Financial project"
+        url = "https://bitira.com"
+        tagline = "Cryptocurrency IRA investment product"
+
+        [[params.projects.list]]
+        title = "Healthcare"
+        meta = "Healthcare project"
+        url = "https://promotedevice.com"
+        tagline = "Healthcare lead generation company"
+
+        [[params.projects.list]]
+        title = "SaaS"
+        meta = "SaaS project"
+        url = "https://buildium.com"
+        tagline = "Property management software"
+
+        [[params.projects.list]]
+        title = "SaaS"
+        meta = "SaaS project"
+        url = "https://raventools.com"
+        tagline = "SEO tools"
+
+        [[params.projects.list]]
+        title = "Agency"
+        meta = "Services project"
+        url = "https://ignitesocialmedia.com"
+        tagline = "Social media agency"
 
 
     [params.information]
@@ -148,20 +184,17 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.information.list]]
         title = "Interests"
-        details = "Cooking, Beekeeping, Cycling"
+        details = "horses, costa rica, fungi, bugs, trees"
 
     [params.social]
         enable = true
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "https://github.com/codewithbas"
-        title = "/codewithbas"
+        url = "https://consultdex.com/profile/brian-chappell/"
+        title = "/brian-chappell"
         [[params.social.list]]
-        icon = "fab fa-linkedin"
-        url = "https://linkedin.com/in/bascodes"
-        title = "/in/bascodes"
-        [[params.social.list]]
-        icon = "fab fa-twitter-square"
-        url = "https://twitter.com/bascodes"
-        title = "@bascodes"
+        icon = "fab fa-mastodon"
+        url = "https://mas.to/@brianchappell"
+        title = "@brianchappell"
+        
