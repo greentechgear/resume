@@ -2,7 +2,7 @@
 
 baseURL = "https://musical-monstera-aed8e0.netlify.app/"
 languageCode = "en"
-title = "Brian Chappell"
+title = "Brian Chappell Professional Experience"
 enableGitInfo = true
 googleAnalytics = "UA-XXXXXXX-Y"
 
@@ -23,7 +23,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.contact]
         enable = true
 
-        location = "Somewhere in the world"
+        location = "Raleigh, NC, USA"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
