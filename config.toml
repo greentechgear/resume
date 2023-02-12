@@ -31,11 +31,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         text = "confidential"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:mail@example.org"
-        text = "mail@example.org"
+        url = "mailto:brianc@brianchappell.com"
+        text = "brianc@brianchappell.com"
         [[params.contact.list]]
         icon = "fas fa-globe"
-        url = "https://bas.bio"
+        url = "https://brianchappell.com"
         text = "My links on the web"
 
 
@@ -43,40 +43,53 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.skills.list]]
-        title = "Python"
+        title = "B2B"
         [[params.skills.list]]
-        title = "Lua"
+        title = "SaaS"
         [[params.skills.list]]
-        title = "LISP"
+        title = "Ecommerce"
+        [[params.skills.list]]
+        title = "Search Marketing"
+        [[params.skills.list]]
+        title = "Wordpress, GA, FB Ads, LinkedIn Ads"
 
 
     [params.education]
         enable = true
 
         [[params.education.list]]
-        degree = "Master of Desaster"
-        university = "University of Life"
-        dates = "1990-present"
+        degree = "BS"
+        university = "Virginia Tech"
+        dates = "2000-2005 (yes, the Michael Vick era)"
 
 
     [params.awards]
         enable = true
 
         [[params.awards.list]]
-        name = "Professional Scrum Master™ I"
-        body = "scrum.org"
-        date = "2018"
+        name = "Professional Business Seller™ I"
+        body = "AdaptPartners.com"
+        date = "2016"
+
+        [[params.awards.list]]
+        name = "Professional Business Seller™ II"
+        body = "AdaptMarketing.com"
+        date = "2022"
 
 
     [params.languages]
         enable = true
 
         [[params.languages.list]]
-        name = "Klingon"
+        name = "Chappellisms"
         level = "Fluent"
 
         [[params.languages.list]]
         name = "English"
+        level = "Fluent"
+
+        [[params.languages.list]]
+        name = "Marketing-Dev speak"
         level = "Fluent"
 
 
@@ -84,24 +97,32 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.interests.list]]
-        name = "Counting Sheeps"
+        name = "Horses"
+        [[params.interests.list]]
+        name = "Costa Rica"
+        [[params.interests.list]]
+        name = "Fungi"
+        [[params.interests.list]]
+        name = "Bugs"
+        [[params.interests.list]]
+        name = "Trees"
 
 
     [params.summary]
         enable = true
-        text = "I am the 10 eggs developer you are looking for."
+        text = "Full Stack Marketer and Product Developer."
 
 
     [params.experience]
         enable = true
 
         [[params.experience.list]]
-        title = "Intern"
-        dates = "2000 - Present"
-        company = "Compuglobal Hyper Mega Net"
-        details = "Increased the baudrate for comic book guy"
+        title = "Director of Marketing"
+        dates = "2005 - 2008"
+        company = "GoTickets.com"
+        details = "Competitve 2ndary Ticket Broker competing against the largest Ticket Brokers in the USA. Topping out at #3 in 2008. Aquired by Pfigstein Partners."
         [[params.experience.list.items]]
-        details = "Took buttery notes"
+        details = "Created initial link system to monitor link efforts as part of GOTickets.com"
 
 
 
