@@ -97,7 +97,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.interests.list]]
-        name = "Horses"
+        name = "Horsess"
         [[params.interests.list]]
         name = "Costa Rica"
         [[params.interests.list]]
