@@ -124,7 +124,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "Created initial link system to monitor link efforts as part of GOTickets.com"
 
-[[params.experience.list]]
+        [[params.experience.list]]
         title = "Owner / Lead Strategist"
         dates = "2008 - 2022"
         company = "AdaptMarketing.com"
