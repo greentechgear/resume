@@ -9,16 +9,16 @@ googleAnalytics = "UA-XXXXXXX-Y"
 [params]
     author = "Brian Chappell"
     description = "Resume"
-    og_image = "better-software.png"
+    og_image = "Brian-Head-shot.png"
     twitterName = "@brianchappell"
-    ghRepo = "https://github.com/codewithbas/resume/"
+    ghRepo = "https://github.com/greentechgear/resume/"
     hugoRepo = "https://github.com/gohugoio/hugo/"
 
     [params.profile]
         enable = true 
         name = "Brian Chappell"
-        tagline = "Demo Resume"
-        avatar = "bas-steins-2.jpg"
+        tagline = "Resume"
+        avatar = "Brian-Head-shot.png"
 
     [params.contact]
         enable = true
