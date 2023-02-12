@@ -141,6 +141,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         url = "https://bullionmax.com"
         tagline = "Managed the Inventory / Content / Search for a Gold/Silver dealer launch"
         
+        [[params.projects.list]]
         title = "BitIRA"
         meta = "Financial project"
         url = "https://bitira.com"
