@@ -2,7 +2,7 @@
 
 baseURL = "https://musical-monstera-aed8e0.netlify.app/"
 languageCode = "en"
-title = "Brian Chappell Professional Experience"
+title = "Brian Chappell Professsional Experience"
 enableGitInfo = true
 googleAnalytics = "UA-XXXXXXX-Y"
 
@@ -122,7 +122,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "GoTickets.com"
         details = "Competitve 2ndary Ticket Broker competing against the largest Ticket Brokers in the USA. Topping out at #3 in 2008. Aquired by Pfigstein Partners."
         [[params.experience.list.items]]
-        details = "Created initial link system to monitor link efforts as part of GOTickets.com"
+        details = "Created initial link system to monitor link efforts as part of GoTickets.com"
 
         [[params.experience.list]]
         title = "Owner / Lead Strategist"
@@ -148,25 +148,25 @@ googleAnalytics = "UA-XXXXXXX-Y"
         tagline = "Cryptocurrency IRA investment product"
 
         [[params.projects.list]]
-        title = "Healthcare"
+        title = "Promote Device"
         meta = "Healthcare project"
         url = "https://promotedevice.com"
         tagline = "Healthcare lead generation company"
 
         [[params.projects.list]]
-        title = "SaaS"
+        title = "Buildium"
         meta = "SaaS project"
         url = "https://buildium.com"
         tagline = "Property management software"
 
         [[params.projects.list]]
-        title = "SaaS"
+        title = "Raven Tools"
         meta = "SaaS project"
         url = "https://raventools.com"
         tagline = "SEO tools"
 
         [[params.projects.list]]
-        title = "Agency"
+        title = "Ignite Social Media"
         meta = "Services project"
         url = "https://ignitesocialmedia.com"
         tagline = "Social media agency"
