@@ -17,7 +17,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.profile]
         enable = true 
         name = "Brian Chappell"
-        tagline = "Resume"
+        tagline = "Professional Experience"
         avatar = "Brian-Head-shot.png"
 
     [params.contact]
