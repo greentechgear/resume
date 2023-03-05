@@ -2,7 +2,7 @@
 
 baseURL = "https://musical-monstera-aed8e0.netlify.app/"
 languageCode = "en"
-title = "Brian Chappell Professsional Experience"
+title = "Brian Chappell Professional Experience"
 enableGitInfo = true
 googleAnalytics = "UA-XXXXXXX-Y"
 
@@ -120,7 +120,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Director of Marketing"
         dates = "2005 - 2008"
         company = "GoTickets.com"
-        details = "Competitve 2ndary Ticket Broker competing against the largest Ticket Brokers in the USA. Topping out at #3 in 2008. Aquired by Pfigstein Partners."
+        details = "Competitive 2ndary Ticket Broker competing against the largest Ticket Brokers in the USA. Topping out at #3 in 2008. Acquired by Pfingstein Partners."
         [[params.experience.list.items]]
         details = "Created initial link system to monitor link efforts as part of GoTickets.com"
 
@@ -128,7 +128,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Owner / Lead Strategist"
         dates = "2008 - 2022"
         company = "AdaptMarketing.com"
-        details = "Managed and led digital marketing agency for over 10 years and 50+ clients. Managed team of 12. Aquired by CopyPress in 2022."
+        details = "Managed and led digital marketing agency for over 10 years and 50+ clients. Managed team of 12. Acquired by CopyPress in 2022."
         [[params.experience.list.items]]
         details = "Developed link and content promotion tools."
 
