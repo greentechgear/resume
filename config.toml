@@ -51,7 +51,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Search Marketing"
         [[params.skills.list]]
-        title = "Wordpress, GA, GAds, FB Ads, LinkedIn Ads"
+        title = "Wordpress, googleAnalytics, GAds, Bing & LinkedIn Ads"
 
 
     [params.education]
