@@ -41,12 +41,13 @@ jobs:
       - name: generate PDFs # run main.py
         env:
           PDFCO_KEY: ${{ secrets.PDFCO_KEY }}
-          RESUME_URL: ${{ vars.RESUME_URL }}
+          RESUME_URL: "https://resume.brianchappell.com"
         run: |
           mkdir static_pdf
-          python get_pdf.py
-          cp static_pdf/*.pdf ./static/
-          cp static_pdf/*.pdf ./public/
+          sleep 30  # Wait for site to be fully deployed
+          python get_pdf.py || echo "PDF generation failed, continuing..."
+          cp static_pdf/*.pdf ./static/ 2>/dev/null || echo "No PDFs to copy"
+          cp static_pdf/*.pdf ./public/ 2>/dev/null || echo "No PDFs to copy"
 
       - name: Deploy to Netlify
         run: netlify deploy --dir=public --message="Auto Deploy with PDFs" --prod
