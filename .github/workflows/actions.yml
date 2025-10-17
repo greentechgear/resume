@@ -32,11 +32,8 @@ jobs:
       - name: Install Netlify CLI
         run: npm install -g netlify-cli
 
-      - name: Build Website
-        run: hugo --minify
-
       - name: Deploy to Netlify
-        run: netlify deploy --dir=public --message="Auto Deploy" --prod
+        run: netlify deploy --message="Auto Deploy" --prod
         env: 
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
           NETLIFY_SITE_ID: ${{ vars.NETLIFY_SITE_ID }}
