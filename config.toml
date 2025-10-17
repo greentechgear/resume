@@ -117,12 +117,78 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.experience.list]]
-        title = "Director of Marketing"
-        dates = "2005 - 2008"
-        company = "GoTickets.com"
-        details = "Competitive 2ndary Ticket Broker competing against the largest Ticket Brokers in the USA. Topping out at #3 in 2008. Acquired by Pfingstein Partners."
+        title = "Community Founder"
+        dates = "2025 - Present"
+        company = "Consultdex.com"
+        details = "Founded and building a intiment consultant community platform featuring specialized categories for critiques, business ideas, software guides, and professional development. Created a space for consultants to share knowledge, analyze campaigns, and collaborate on innovative projects."
         [[params.experience.list.items]]
-        details = "Created initial link system to monitor link efforts as part of GoTickets.com"
+        details = "Built comprehensive community platform with categories: Consult & Critique, Steal This Idea, Software Guides, Mind & Business, and AMA sessions"
+        [[params.experience.list.items]]
+        details = "Facilitated knowledge sharing across web performance, content quality, accessibility, data analytics, branding, and paid media"
+        [[params.experience.list.items]]
+        details = "Created space for consultants to share innovative business ideas and software mastery guides"
+        [[params.experience.list.items]]
+        details = "Platform: https://consultdex.com/"
+
+        [[params.experience.list]]
+        title = "Product Developer"
+        dates = "2025 - Present"
+        company = "Calenlist.com"
+        details = "Developed a calendar sharing and monetization platform that allows creators, coaches, and community leaders to share their calendars and build revenue through subscription models. Built with Google Calendar integration and simple monetization features."
+        [[params.experience.list.items]]
+        details = "Created platform for calendar sharing and community building with Google Calendar integration"
+        [[params.experience.list.items]]
+        details = "Implemented subscription-based monetization model for calendar creators and community leaders"
+        [[params.experience.list.items]]
+        details = "Built templates for Office Hours, Community Events, Webinar Series, Consulting Sessions, Fitness Classes, and Workshop Series"
+        [[params.experience.list.items]]
+        details = "Platform: https://calenlist.com/"
+
+        [[params.experience.list]]
+        title = "Founder"
+        dates = "2024 - Present"
+        company = "Medvertise"
+        details = "Transform Medical Equipment Sales with the Medvertise Network. Medvertise simplifies the way you find, price, and sell equipment, saving you time and increasing your margins. Built by experts in the medical equipment industry from the team that created the world's largest medical imaging aftermarket company, Probo Medical."
+        [[params.experience.list.items]]
+        details = "AI-powered platform for medical equipment sales with real-time market insights and pricing data"
+        [[params.experience.list.items]]
+        details = "Average time saved: 8+ hours/week, Margin increase: +23% on average"
+        [[params.experience.list.items]]
+        details = "Exclusive access to both aftermarket pricing and new OEM products"
+        [[params.experience.list.items]]
+        details = "Auto-updated listings synchronized across all major platforms (Google, Bing, etc.)"
+        [[params.experience.list.items]]
+        details = "AI Chatbot assistance and integrated platform listings for 5x faster management"
+
+        [[params.experience.list]]
+        title = "Founder"
+        dates = "2023 - Present"
+        company = "Rival Track Inc."
+        details = "Rival Track is run day to day by Brian Chappell and serves as his mode for competitive insights and informative takes on web competition and other marketing and communication tactics your competitors might be engaging in."
+        [[params.experience.list.items]]
+        details = "Competitive Monitoring as a service"
+        [[params.experience.list.items]]
+        details = "Website: https://rivaltrack.com/"
+
+        [[params.experience.list]]
+        title = "Founder"
+        dates = "2019 - Present"
+        company = "Promote Device"
+        details = "Promote Device specializes in building a strategic marketing presence tailored to individual businesses within the industrial and healthcare verticals. Specialties include search engine optimization (SEO), Google Ads, Google Merchant Center, Google Retail, Bing Adcenter, Amazon Business, as well as general Content Management and Lead Management Customer Service."
+        [[params.experience.list.items]]
+        details = "Lead Generation Company for Industrial and Healthcare Companies"
+        [[params.experience.list.items]]
+        details = "Located in RTP NC Area"
+
+        [[params.experience.list]]
+        title = "Founder"
+        dates = "2016 - Present"
+        company = "PromoteMed Inc."
+        details = "PromoteMed focuses on growing patient bases for Aesthetic practices through to Veterinarians and everything in between. We utilize integrated digital marketing techniques to drive success for our healthcare partners."
+        [[params.experience.list.items]]
+        details = "Digital Marketing Agency for the Healthcare Industry"
+        [[params.experience.list.items]]
+        details = "Located in Cary, NC"
 
         [[params.experience.list]]
         title = "Owner / Lead Strategist"
@@ -131,6 +197,26 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Managed and led digital marketing agency for over 10 years and 50+ clients. Managed team of 12. Acquired by CopyPress in 2022."
         [[params.experience.list.items]]
         details = "Developed link and content promotion tools."
+
+        [[params.experience.list]]
+        title = "Director of Marketing"
+        dates = "2005 - 2008"
+        company = "GoTickets.com"
+        details = "Competitive 2ndary Ticket Broker competing against the largest Ticket Brokers in the USA. Topping out at #3 in 2008. Acquired by Pfingstein Partners."
+        [[params.experience.list.items]]
+        details = "Created initial link system to monitor link efforts as part of GoTickets.com"
+
+        [[params.experience.list]]
+        title = "Medical Equipment Business Development"
+        dates = "2008 - 2019"
+        company = "Providian Medical"
+        details = "Led business development initiatives in the medical imaging equipment market, contributing to significant market consolidation and company growth."
+        [[params.experience.list.items]]
+        details = "Sold for 6x EBITA"
+        [[params.experience.list.items]]
+        details = "Created an online lead generation system extending across the market allowing for Generated quotes on 100million in ultrasound equipment"
+        [[params.experience.list.items]]
+        details = "Assisted the transition and consolidation of the Imaging market which in turn created a 500 million entity in ProboMedical"
 
     [params.projects]
         enable = true
@@ -184,7 +270,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.information.list]]
         title = "Interests"
-        details = "horses, costa rica, fungi, bugs, trees"
+        details = "horses, costa rica, fungi, bugs, trees, 3d printing, linux, automations"
 
     [params.social]
         enable = true
