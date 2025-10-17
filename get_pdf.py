@@ -29,6 +29,16 @@ def get(fmt="Letter"):
     url = "https://api.pdf.co/v1/pdf/convert/from/url"
     r = requests.post(url, json=config, headers={"x-api-key": API_KEY})
     result = r.json()
+    
+    # Debug: print the API response
+    print(f"PDF.co API Response: {result}")
+    
+    if "url" not in result:
+        print(f"Error: No 'url' in response. Full response: {result}")
+        if "error" in result:
+            print(f"API Error: {result['error']}")
+        return None
+    
     url = result["url"]
     r = requests.get(url)
     with open(f"resume.{fmt}.pdf", "wb") as f:
@@ -39,5 +49,9 @@ def get(fmt="Letter"):
 if __name__ == "__main__":
     fmts = ['Letter', 'A4']
     for fmt in fmts:
-        get(fmt=fmt).rename(f"static_pdf/resume.{fmt.lower()}.pdf")
+        result = get(fmt=fmt)
+        if result:
+            result.rename(f"static_pdf/resume.{fmt.lower()}.pdf")
+        else:
+            print(f"Failed to generate PDF for {fmt} format")
 
