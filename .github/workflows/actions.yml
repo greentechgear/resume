@@ -29,6 +29,9 @@ jobs:
           hugo-version: "0.110.0"
           extended: true
 
+      - name: Install Netlify CLI
+        run: npm install -g netlify-cli
+
       - name: Build Website
         run: hugo --minify
 
